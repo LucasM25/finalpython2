@@ -5,3 +5,4 @@ Administrar blog como usuario y como administrador.
 Posteos dentro del blog
 
 Video del test de la pagina y app 
+https://youtu.be/F1wAT4uCjgU
